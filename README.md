@@ -1,6 +1,6 @@
 # atombell
 
-Making a bell system in home network betweenn M5AtomLite and M5AtomEcho.
+A bell system in home network betweenn M5AtomLite and M5AtomEcho.
 
 Bell_Reciever:For a M5Atom Echo.
 Play beep on get a signal to a network by espnow protocol.
